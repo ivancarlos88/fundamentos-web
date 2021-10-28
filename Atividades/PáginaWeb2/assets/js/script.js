@@ -5,6 +5,6 @@ function imagemAmp(){
     cao.style.height = '800px'
 }
 function imagemRed(){
-    cao.style.width = '400px'
-    cao.style.width = '400px'
+    cao.style.width = '768px'
+    cao.style.height = '509px'
 }
