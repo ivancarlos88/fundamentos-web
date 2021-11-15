@@ -1,0 +1,8 @@
+#img-bg{
+    background-image: url('https://www.infoescola.com/wp-content/uploads/2008/04/planeta-terra_585359906.jpg');
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
